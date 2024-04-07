@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+caption{
+    font-size: x-large;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+th{
+    padding: 5px;
+}
+
+td{
+    padding: 20px;
+}
+
+
+.num:hover{
+    color: whitesmoke;
+    background-color: palevioletred;
+}
